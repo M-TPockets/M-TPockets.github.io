@@ -32,13 +32,13 @@
         
     }
     .nav {            
-        width: 15%; 
+        width: 20%; 
         background: #8f884b;
         height: 100%;
         
     }
     .section {
-        width: 85%;
+        width: 80%;
         background: white;
     }
     .nav ul {
