@@ -103,3 +103,9 @@
 p{
     line-height: 2em;
 }
+.logo
+{
+    position: absolute;
+    margin-top: 10px;
+    margin-left:10px;
+}
