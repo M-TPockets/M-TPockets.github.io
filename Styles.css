@@ -111,3 +111,7 @@ p{
     height:111px;
     position: absolute;
 }
+ul{
+    float: left;
+    margin-right: 30px;
+}
