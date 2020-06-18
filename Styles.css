@@ -7,6 +7,7 @@
         background: #337a03; 
         text-align: center;
         color: white;
+        height: 91px;
         
     }
     .header h1 {
@@ -105,7 +106,8 @@ p{
 }
 .logo
 {
+    top: 0px;
+    left: 10px;
+    height:111px;
     position: absolute;
-    margin-top: 10px;
-    margin-left:10px;
 }
