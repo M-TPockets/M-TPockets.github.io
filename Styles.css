@@ -45,6 +45,10 @@
         list-style: none; 
         line-height: 24px;
         padding: 0px; 
+        
+    }
+    .nav ul li{
+        font-size: 2em;
     }
     .nav ul li a {
         color: #333;
@@ -111,7 +115,7 @@ p{
     height:111px;
     position: absolute;
 }
-ul{
+.section ul{
     float: left;
     margin-right: 30px;
 }
